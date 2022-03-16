@@ -1,0 +1,2 @@
+# Conversor de Moedas Mundial
+Um conversor de moedas que varre o site "https://www.iban.com/currency-codes" pegando todas as moedas existentes com requests e bs4 para fazer um soup, e convertendo ela através do proprio link!
